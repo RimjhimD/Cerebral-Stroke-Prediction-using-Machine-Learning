@@ -37,12 +37,29 @@ This project demonstrates a **complete end-to-end Machine Learning pipeline**, c
 
 ---
 
+## 🔗 Project Repository
+GitHub Repository Link:  
+👉 https://github.com/RimjhimD/Cerebral-Stroke-Prediction-using-Machine-Learning/tree/main  
+
+---
+
+## 📂 Dataset
+The dataset used in this project is publicly available on Kaggle:
+
+👉 https://www.kaggle.com/datasets/shashwatwork/cerebral-stroke-predictionimbalaced-dataset  
+
+- Domain: Healthcare (Stroke Prediction)  
+- Type: Imbalanced dataset  
+- Target Variable: Stroke occurrence  
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### 🔹 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/RimjhimD/Cerebral-Stroke-Prediction-using-Machine-Learning.git
+cd Cerebral-Stroke-Prediction-using-Machine-Learning
 ```
 
 ### 🔹 2. Install Required Libraries
